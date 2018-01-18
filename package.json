@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwyl/learn-tdd.git"
+    "url": "https://github.com/marcojansen/learn-tdd.git"
   },
   "keywords": [
     "learn",
@@ -35,6 +35,9 @@
   "devDependencies": {
     "istanbul": "^0.4.3",
     "jsdoc": "^3.4.0",
+    "jshint": "^2.9.5",
+    "jshint-checkstyle-file-reporter": "0.0.1",
+    "jshint-stylish": "^2.2.1",
     "live-server": "^1.1.0",
     "qunit-tap": "^1.5.0",
     "qunitjs": "^2.0.0-rc1"
